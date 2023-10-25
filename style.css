@@ -6,10 +6,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(177, 76%, 52%);
+    background-color: hwb(0 2% 66%);
     }  
   .calculator {
-    border: 1px solid hsl(0, 71%, 29%);
+    border: 1px solid hwb(160 13% 15%);
     width: 500px;
     text-align: center;
     padding: 10px;
