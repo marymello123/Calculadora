@@ -9,14 +9,14 @@ body {
     background-color: hwb(0 2% 66%);
     }  
   .calculator {
-    border: 1px solid hwb(170 16% 25%);
+    border: 1px solid hwb(170 9% 11%);
     width: 500px;
     text-align: center;
     padding: 10px;
   }
   .number {
     background-color: #4123ef; /* Cor de fundo azul */
-    color: hsl(0, 17%, 95%); /* Cor do texto branca */
+    color: hsla(0, 100%, 99%, 0.877); /* Cor do texto branca */
   }
   
   #display {
